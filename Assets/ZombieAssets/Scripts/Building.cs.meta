@@ -1,0 +1,10 @@
+fileFormatVersion: 1
+guid: c0eb8a4fe7e36bb4f9478e04351a23d9
+MonoImporter:
+  importerVersion: 1
+  defaultReferences:
+    capTex0: {fileID: 2100000, guid: 0c60b711bd2f35e429680973c02e47e7, type: 2}
+    capTex1: {fileID: 2100000, guid: 56f08b80f0b923846aec86c36502d496, type: 2}
+    capTex2: {fileID: 2100000, guid: 0c43fa0240f6fe54cb11e956a685836e, type: 2}
+    capTex3: {fileID: 2100000, guid: 97f34971ee620fb43a5061c5022f4702, type: 2}
+    capTex4: {fileID: 2100000, guid: 085efe7c9bbff874daacdbdbd8bfa303, type: 2}

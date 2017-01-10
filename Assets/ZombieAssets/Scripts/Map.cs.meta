@@ -1,0 +1,7 @@
+fileFormatVersion: 1
+guid: 1941d57fd232b0242807ea1025cf4d87
+MonoImporter:
+  importerVersion: 1
+  defaultReferences:
+    ZombieTemplate: {fileID: 100000, guid: 00000000000000000000000000000000, type: 0}
+    LeadZombie: {}
